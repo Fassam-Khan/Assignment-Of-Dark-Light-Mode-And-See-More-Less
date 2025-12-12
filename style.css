@@ -191,4 +191,14 @@ main p {
     border-radius: 30px;
 }
 
+@media screen and (max-width:600px) {
+    h2{
+        font-size: 14px;
+    }
+    main p{
+        width: 100%;
+    }
+    
+}
+
   
